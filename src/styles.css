@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.pyramid {
+  text-align: center;
+}
+
+.InputForm {
+  text-align: center;
+}
+
+.Pyramidphoto {
+  margin-left: 50%;
+  /* float: 40%; */
+}
